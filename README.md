@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Misgana
+A React Developer.
+Working on Software Development.
 
-<!--
-**MisganaAB/MisganaAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Checkout my portfolio at https://misgana-portfolio.vercel.app
 
-Here are some ideas to get you started:
+📫 How to reach me misganatogod@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+Halleluya Mulugeta Halleluya Mulugeta
+
+Languages and Tools:
+bash bootstrap css3 express figma flask git html5 javascript mongodb mysql nodejs python react tailwind

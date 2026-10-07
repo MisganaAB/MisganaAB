@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Misgana</h1>
 <h3 align="center">A passionate frontend developer from Addis Ababa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=misganaab&label=Profile%20views&color=0e75b6&style=flat" alt="misganaab" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misganaab&label=Profile%20views&color=0e75b6&style=flat" alt="misganaab" /> </p> -->
 
 - 🔭 I’m currently working on **software development**
 
